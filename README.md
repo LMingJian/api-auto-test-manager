@@ -1,4 +1,4 @@
-# PyQt5设计的接口自动测试软件
+# PyQt5 设计的接口自动测试软件
 
 @LM 2021-01-15 至 2021-04-28
 
@@ -6,7 +6,7 @@
 
 毕业设计课题，使用 PyQt5 设计的一个带 GUI 的接口自动测试软件。
 
-在此做存档作用。
+**在此做存档作用，很大概率还是能用的，但是当时忘记写文档，导致不知道怎么用了**。
 
 ## 需要额外安装的库
 
@@ -33,3 +33,15 @@ pip install xlrd==1.2.0 PyQt5 PyQt5-tools requests
 ```cmd
 pyinstaller -F -w main.py
 ```
+
+## 图示
+
+![alt text](<images/屏幕截图 2021-02-24 161146.jpg>)
+
+![alt text](<images/屏幕截图 2021-02-24 161202.jpg>)
+
+![alt text](<images/屏幕截图 2021-02-24 161324.jpg>)
+
+![alt text](<images/屏幕截图 2021-02-24 161348.jpg>)
+
+![alt text](<images/屏幕截图 2021-02-24 161358.jpg>)
